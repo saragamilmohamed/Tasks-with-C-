@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729182881 source:c:\users\el-huda\downloads\iti\demo3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1729182881 source:c:\users\el-huda\downloads\iti\c course\demo3\main.c
+	<stdio.h>
+	<stdlib.h>
+

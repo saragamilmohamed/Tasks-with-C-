@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729698093 source:c:\users\el-huda\downloads\iti\c course\demo0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
